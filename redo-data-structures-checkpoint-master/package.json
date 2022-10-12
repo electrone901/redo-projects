@@ -7,6 +7,6 @@
   },
   "author": "Gabriel Lebec <glebec@gmail.com> (https://github.com/glebec)",
   "devDependencies": {
-    "testem": "2.9.0"
+    "testem": "3.9.0"
   }
 }
